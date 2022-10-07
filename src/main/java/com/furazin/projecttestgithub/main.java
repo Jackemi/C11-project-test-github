@@ -8,5 +8,4 @@ public class main {
         System.out.println(arith.add());
     }
 }
-// comentario para borrar el error
-class error_code: void;
+// comentario para corregir
