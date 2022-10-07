@@ -9,3 +9,4 @@ public class main {
     }
 }
 // comentario para borrar el error
+class error_code: void;
